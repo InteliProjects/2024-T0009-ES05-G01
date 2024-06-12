@@ -1,0 +1,27 @@
+config:
+  target: 'http://localhost:3000'
+  phases:
+    - name: "Aquecimento"
+      duration: 60
+      arrivalRate: 5
+      description: "Fase de aquecimento com taxa de chegada baixa para preparar o sistema."
+  variables:
+    email: "johndoe@ong.teste.com"
+    senha: "123456"
+scenarios:
+  - name: "Teste de Login e Acesso a ONGs"
+    flow:
+      - post:
+          url: "/login"
+          json:
+            email: "{{ email }}"
+            senha: "{{ senha }}"
+          capture:
+            json: "$.token" 
+            as: "loginToken"
+      - get:
+          url: "/ongs"
+          headers:
+            Authorization: "Bearer {{ loginToken }}"
+          expect:
+            - statusCode: 200

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "titulo": "Oficina de Dança",
+    "descricao": "Aprenda a dançar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/03/img-quemsomos-favela-GerandoFalcoes.png?time=1709242985"
+  },
+  {
+    "id": 2,
+    "titulo": "Oficina de Violão",
+    "descricao": "Aprenda a tocar violão com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/objetivos.png?time=1709242985"
+  },
+  {
+    "id": 3,
+    "titulo": "Oficina de Teatro",
+    "descricao": "Aprenda a atuar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/11/bazar-gerando-falcoes.jpg?time=1709242985"
+  },
+  {
+    "id": 4,
+    "titulo": "Oficina de Pintura",
+    "descricao": "Aprenda a pintar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2021/07/Foto-materia-Meio-Mensagem-2.jpg?time=1709242985"
+  },
+  {
+    "id": 5,
+    "titulo": "Oficina de Artesanato",
+    "descricao": "Aprenda a fazer artesanato com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/04/JOVEM-FALCAO-NO-PROCESSO-DE-APRENDIZAGEM.png?time=1709242985"
+  },
+  {
+    "id": 6,
+    "titulo": "Oficina de Culinária",
+    "descricao": "Aprenda a cozinhar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/roblox-768x398.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Oficina de Esportes",
+    "descricao": "Aprenda a praticar esportes com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/04/Edu0.png?time=1709242985"
+  },
+  {
+    "id": 8,
+    "titulo": "Oficina de Fotografia",
+    "descricao": "Aprenda a fotografar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/ONG-gerando-falcoes.png?time=1709242985"
+  },
+  {
+    "id": 9,
+    "titulo": "Oficina de Jardinagem",
+    "descricao": "Aprenda a cuidar de plantas com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/03/IMAGEMBAZARGERANDOFALCOES.png?time=1709242985"
+  },
+  {
+    "id": 10,
+    "titulo": "Oficina de Costura",
+    "descricao": "Aprenda a costurar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/11/iniciativa-edu-lyra-e-gerando-falcoes-falcons-university.webp?time=1709242985"
+  },
+  {
+    "id": 11,
+    "titulo": "Oficina de Informática",
+    "descricao": "Aprenda a usar o computador com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/objetivos.png?time=1709242985"
+  },
+  {
+    "id": 12,
+    "titulo": "Oficina de Música",
+    "descricao": "Aprenda a tocar instrumentos musicais com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/04/JOVEM-FALCAO-NO-PROCESSO-DE-APRENDIZAGEM.png?time=1709242985"
+  },
+  {
+    "id": 13,
+    "titulo": "Oficina de Artes Marciais",
+    "descricao": "Aprenda a praticar artes marciais com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/roblox-768x398.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Oficina de Yoga",
+    "descricao": "Aprenda a praticar yoga com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/ONG-gerando-falcoes.png?time=1709242985"
+  },
+  {
+    "id": 15,
+    "titulo": "Oficina de Meditação",
+    "descricao": "Aprenda a meditar com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/03/IMAGEMBAZARGERANDOFALCOES.png?time=1709242985"
+  },
+  {
+    "id": 16,
+    "titulo": "Oficina de Artesanato",
+    "descricao": "Aprenda a fazer artesanato com os melhores professores",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/11/bazar-gerando-falcoes.jpg?time=1709242985"
+  }
+]

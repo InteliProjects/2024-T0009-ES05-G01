@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Dança",
+        "duracao": "1h30min",
+        "professor": "João"
+    },
+    {
+        "id": 2,
+        "nome": "Yoga",
+        "duracao": "1h",
+        "professor": "Maria"
+    },
+    {
+        "id": 3,
+        "nome": "Pilates",
+        "duracao": "1h",
+        "professor": "Ana"
+    },
+    {
+        "id": 4,
+        "nome": "Musculação",
+        "duracao": "1h",
+        "professor": "Pedro"
+    },
+    {
+        "id": 5,
+        "nome": "Natação",
+        "duracao": "1h",
+        "professor": "Paula"
+    }
+]

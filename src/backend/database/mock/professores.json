@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "id_usuario": 2,
+        "nome": "Jane Doe",
+        "idade": 35,
+        "cpf": "123.456.789-00",
+        "email": "janedoe@gmail.com",
+        "oficinas": [{"nome": "Dança", "cor": "#43766C"}, {"nome": "Musculação", "cor": "#76453B"}, {"nome": "Yoga", "cor": "#B19470"}],
+        "endereco": "Rua das Flores, 123, Bairro das Flores, Cidade das Flores - FL",
+        "ong": {
+            "id": 1,
+            "nome": "Unidos pelo Bem"
+        }
+    }
+]

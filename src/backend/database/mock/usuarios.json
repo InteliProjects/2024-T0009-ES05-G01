@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "John Doe",
+        "email": "johndoe@ong.teste.com",
+        "senha": "123456",
+        "data_nascimento": "1990-01-01",
+        "genero": "M",
+        "rg": "123456789",
+        "cpf": "12345678901",
+        "estadoCivil": "Solteiro",
+        "raca": "Branco",
+        "nacionalidade": "Brasileiro",
+        "naturalidade": "São Paulo",
+        "escolaridade": "Ensino Médio",
+        "profissao": "Programador",
+        "endereco": {
+            "cep": "12345678",
+            "logradouro": "Rua Teste",
+            "numero": "123",
+            "complemento": "Apto 123",
+            "bairro": "Teste",
+            "cidade": "São Paulo",
+            "estado": "SP"
+        },
+        "telefone": {
+            "celular": "11912345678",
+            "residencial": "1123456789"
+        },
+        "ong": {
+            "id": 1,
+            "nome": "Unidos pelo Bem"
+        },
+        "perfil": [
+            "admin"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Jane Doe",
+        "email": "janedoe@ong.teste.com",
+        "senha": "123456",
+        "data_nascimento": "1990-01-01",
+        "genero": "F",
+        "rg": "123456789",
+        "cpf": "12345678901",
+        "estadoCivil": "Solteiro",
+        "raca": "Branco",
+        "nacionalidade": "Brasileiro",
+        "naturalidade": "São Paulo",
+        "escolaridade": "Ensino Médio",
+        "profissao": "Programador",
+        "endereco": {
+            "cep": "12345678",
+            "logradouro": "Rua Teste",
+            "numero": "123",
+            "complemento": "Apto 123",
+            "bairro": "Teste",
+            "cidade": "São Paulo",
+            "estado": "SP"
+        },
+        "telefone": {
+            "celular": "11912345678",
+            "residencial": "1123456789"
+        },
+        "ong": {
+            "id": 1,
+            "nome": "ONG Teste"
+        },
+        "perfil": "professor"
+    }
+]

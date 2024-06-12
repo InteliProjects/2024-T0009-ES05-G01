@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nome": "Turma A",
+        "id_oficina": 1,
+        "beneficiados": [
+            {"id": 1, "nome": "João"},
+            {"id": 2, "nome": "Maria"},
+            {"id": 3, "nome": "José"},
+            {"id": 4, "nome": "Ana"},
+            {"id": 5, "nome": "Pedro"},
+            {"id": 6, "nome": "Paula"},
+            {"id": 7, "nome": "Carlos"},
+            {"id": 8, "nome": "Cristina"},
+            {"id": 9, "nome": "Fernando"},
+            {"id": 10, "nome": "Mariana"}
+        ],
+        "professores": [
+            {"id": 1, "nome": "Jane"}
+        ],
+        "data_inicio": "2021-01-01",
+        "data_fim": "2021-12-31",
+        "horario": "19:00",
+        "repetir": "semanal",
+        "local": "Sala 1",
+        "ativo": true,
+        "dia": "segunda-feira",
+        "capacidade_beneficiados": 10
+    },
+    {
+        "id": 2,
+        "nome": "Turma B",
+        "id_oficina": 2,
+        "beneficiados": [
+            {"id": 11, "nome": "Carlos"},
+            {"id": 12, "nome": "Davi"},
+            {"id": 13, "nome": "Joséf"},
+            {"id": 14, "nome": "Ana"},
+            {"id": 15, "nome": "Pedro"},
+            {"id": 16, "nome": "Paula"},
+            {"id": 17, "nome": "Carlos"},
+            {"id": 18, "nome": "Cristina"},
+            {"id": 19, "nome": "Fernando"},
+            {"id": 20, "nome": "Mariana"}
+        ],
+        "professores": [
+            {"id": 1, "nome": "Jane"}
+        ],
+        "data_inicio": "2021-01-01",
+        "data_fim": "2021-12-31",
+        "horario": "19:00",
+        "repetir": "semanal",
+        "local": "Sala 2",
+        "ativo": true,
+        "dia": "terça-feira",
+        "capacidade_beneficiados": 12
+    },
+    {
+        "id": 3,
+        "nome": "Turma C",
+        "id_oficina": 3,
+        "beneficiados": [
+            {"id": 21, "nome": "Carlos"},
+            {"id": 22, "nome": "Davi"},
+            {"id": 23, "nome": "Joséf"},
+            {"id": 24, "nome": "Ana"},
+            {"id": 25, "nome": "Pedro"},
+            {"id": 26, "nome": "Paula"},
+            {"id": 27, "nome": "Carlos"},
+            {"id": 28, "nome": "Cristina"},
+            {"id": 29, "nome": "Fernando"},
+            {"id": 30, "nome": "Mariana"}
+        ],
+        "professores": [
+            {"id": 1, "nome": "Jane"}
+        ],
+        "data_inicio": "2021-01-01",
+        "data_fim": "2021-12-31",
+        "horario": "19:00",
+        "repetir": "semanal",
+        "local": "Sala 3",
+        "ativo": true,
+        "dia": "quarta-feira",
+        "capacidade_beneficiados": 15
+    }
+]

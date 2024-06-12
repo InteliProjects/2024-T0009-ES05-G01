@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nome": "Unidos pelo Bem",
+    "descricao": "ONG dedicada a promover a solidariedade e ações humanitárias em todo o Brasil.",
+    "cidade": "São Paulo",
+    "telefone": "(11) 1234-5678",
+    "email": "unidosbembrazil@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/03/img-quemsomos-favela-GerandoFalcoes.png?time=1709242985"
+  },
+  {
+    "id": 2,
+    "nome": "Amigos do Bem",
+    "descricao": "Organização comprometida em melhorar as condições de vida de comunidades carentes em diversas regiões do Nordeste brasileiro.",
+    "cidade": "Recife",
+    "telefone": "(81) 9876-5432",
+    "email": "amigosdobem@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/objetivos.png?time=1709242985"
+  },
+  {
+    "id": 3,
+    "nome": "Semeando o Futuro",
+    "descricao": "ONG focada em fornecer educação e oportunidades para crianças carentes em áreas rurais do interior do Brasil.",
+    "cidade": "Brasília",
+    "telefone": "(61) 3333-4444",
+    "email": "semeandofuturo@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/11/bazar-gerando-falcoes.jpg?time=1709242985"
+  },
+  {
+    "id": 4,
+    "nome": "Coração Solidário",
+    "descricao": "Entidade que oferece apoio emocional e assistência social para pessoas em situações de vulnerabilidade em todo o país.",
+    "cidade": "Rio de Janeiro",
+    "telefone": "(21) 5555-6666",
+    "email": "coracaosolidario@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2021/07/Foto-materia-Meio-Mensagem-2.jpg?time=1709242985"
+  },
+  {
+    "id": 5,
+    "nome": "Mãos que Ajudam",
+    "descricao": "ONG que promove ações voluntárias e projetos comunitários em várias regiões do Brasil, visando melhorar a qualidade de vida das pessoas.",
+    "cidade": "Belo Horizonte",
+    "telefone": "(31) 9876-5432",
+    "email": "maosqueajudam@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/04/JOVEM-FALCAO-NO-PROCESSO-DE-APRENDIZAGEM.png?time=1709242985"
+  },
+  {
+    "id": 6,
+    "nome": "Abrace",
+    "descricao": "Organização dedicada a cuidar de crianças abandonadas e órfãs, oferecendo amor, apoio e oportunidades de vida digna.",
+    "cidade": "Salvador",
+    "telefone": "(71) 2222-3333",
+    "email": "abracesalvador@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/roblox-768x398.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Paz e Amor",
+    "descricao": "ONG que trabalha para promover a paz, a igualdade e a inclusão social em comunidades vulneráveis em todo o Brasil.",
+    "cidade": "Fortaleza",
+    "telefone": "(85) 7654-3210",
+    "email": "pazeamor@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/04/Edu0.png?time=1709242985"
+  },
+  {
+    "id": 8,
+    "nome": "Vida Plena",
+    "descricao": "Entidade sem fins lucrativos que oferece suporte e cuidados para idosos em situação de abandono ou negligência.",
+    "cidade": "Porto Alegre",
+    "telefone": "(51) 9876-5432",
+    "email": "vidaplena@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/05/ONG-gerando-falcoes.png?time=1709242985"
+  },
+  {
+    "id": 9,
+    "nome": "Esperança Renovada",
+    "descricao": "ONG comprometida em ajudar famílias carentes a superar dificuldades e construir um futuro melhor para seus filhos.",
+    "cidade": "Curitiba",
+    "telefone": "(41) 3333-2222",
+    "email": "esperancarenovada@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/03/IMAGEMBAZARGERANDOFALCOES.png?time=1709242985"
+  },
+  {
+    "id": 10,
+    "nome": "Futuro Brilhante",
+    "descricao": "Organização dedicada a oferecer oportunidades de educação e desenvolvimento pessoal para jovens de comunidades desfavorecidas.",
+    "cidade": "Manaus",
+    "telefone": "(92) 9876-5432",
+    "email": "futurobrilhante@example.com",
+    "imagem": "https://cvee2f.p3cdn1.secureserver.net/wp-content/uploads/2022/11/iniciativa-edu-lyra-e-gerando-falcoes-falcons-university.webp?time=1709242985"
+  }
+]

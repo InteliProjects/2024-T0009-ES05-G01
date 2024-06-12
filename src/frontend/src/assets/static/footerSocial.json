@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "facebook",
+    "href": "https://www.facebook.com/GerandoFalcoes/",
+    "img": "/facebook.svg"
+  },
+  {
+    "nome": "youtube",
+    "href": "https://www.youtube.com/user/gerandofalcoes",
+    "img": "/youtube.svg"
+  },
+  {
+    "nome": "instagram",
+    "href": "https://www.instagram.com/gerandofalcoes/",
+    "img": "/instagram.svg"
+  },
+  {
+    "nome": "twitter",
+    "href": "https://twitter.com/gerandofalcoes?lang=en",
+    "img": "/twitter.svg"
+  },
+  {
+    "nome": "linkedin",
+    "href": "https://br.linkedin.com/company/gerandofalcoes",
+    "img": "/linkedin.svg"
+  }
+]
